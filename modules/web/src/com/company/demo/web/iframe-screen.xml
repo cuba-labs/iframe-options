@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<window xmlns="http://schemas.haulmont.com/cuba/screen/window.xsd"
+        caption="msg://caption"
+        messagesPack="com.company.demo.web">
+    <layout>
+        <browserFrame id="wikiFrame" width="100%" height="100%">
+            <url url="https://www.wikipedia.org/"/>
+        </browserFrame>
+    </layout>
+</window>
